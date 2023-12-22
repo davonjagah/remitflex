@@ -1,0 +1,192 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Production build
+/build/
+
+# Development environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE (e.g., Visual Studio Code) configuration files
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Node.js and npm configuration
+package-lock.json
+yarn.lock
+
+# Editor directories and files
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+.vscode/
+.project
+.settings/
+.tmproj
+*.esproj
+
+# React build
+/build/
+
+# User-specific files
+npm-debug.log
+yarn-error.log
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Testing
+/coverage
+
+# Jest
+/coverage/
+jest-report/
+
+# Test Results
+*.jest-test-results.json
+*.jest-test-results.html
+
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Bower dependency directory (https://bower.io/)
+bower_components/
+
+# snowpack dependency directory (https://snowpack.dev/)
+web_modules/
+
+# next.js build output
+.next/
+out/
+
+# Serverless
+.serverless/
+
+# FuseBox
+.fusebox/
+
+# DynamoDB Local
+.dynamodb/
+
+# RedwoodJS
+.redwood/
+
+# NestJS
+/dist/
+/temp/
+
+# Yarn 2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+.pnp.*
+
+# Uncomment if you wish to ignore Yarn v1 workspaces
+# .yarn/workspaces
+
+# Gradle
+.gradle/
+
+# Mongo
+*.sdb
+
+# Meteor
+*.meteor/local
+*.meteor/local/db
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter_tools/
+.idea/
+.vscode/
+
+# Android
+/build/
+.gradle/
+local.properties
+/.idea/workspace.xml
+/.idea/libraries
+
+# iOS
+Pods/
+build/
+*.xcodeproj/
+*.xcworkspace/
+
+# CocoaPods
+/Pods
+/Podfile.lock
+/xcuserdata/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+*.code-workspace
+
+# Sublime Text directories
+.sublime-workspace
+.sublime-project
+
+# SASS
+.sass-cache/
+
+# Parcel
+.cache/
+dist/
+
+# Cloud9
+.c9/
+
+# ESLint
+.eslintcache
+
+# Deno
+.cache/
+deno/
